@@ -9,18 +9,29 @@
 # Features :
 
 → Draw signatures directly on canvas
-→ Change pen/text color
-→ Customize stroke size
+
+→ Change pen/text color 
+
+→ Customize stroke size 
+
 → Change canvas background color
+
 → Clear canvas instantly
+
 → Save & download signatures
+
 → Retrieve previously saved signatures
+
 → Minimal and responsive UI
 
 # Built With :
 
 → HTML5
+
 → CSS3
+
 → Tailwind CSS
+
 → JavaScript
+
 → HTML Canvas API
