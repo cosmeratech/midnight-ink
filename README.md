@@ -35,6 +35,3 @@
 → JavaScript
 
 → HTML Canvas API
-
-
-
